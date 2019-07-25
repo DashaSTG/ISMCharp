@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\bin\Debug\WinFormTasks.exe.config
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\bin\Debug\WinFormTasks.exe
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\bin\Debug\WinFormTasks.pdb
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\bin\Debug\task_1.dll
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\bin\Debug\task_1.pdb
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\obj\Debug\WinFormTasks.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\obj\Debug\WinFormTasks.FormCalculate.resources
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\obj\Debug\WinFormTasks.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\obj\Debug\WinFormTasks.csproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\obj\Debug\WinFormTasks.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\obj\Debug\WinFormTasks.exe
+C:\Users\ASUS\source\repos\ISM\WinFormTasks\obj\Debug\WinFormTasks.pdb

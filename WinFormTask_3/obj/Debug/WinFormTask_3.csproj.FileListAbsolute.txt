@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\bin\Debug\WinFormTask_3.exe.config
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\bin\Debug\WinFormTask_3.exe
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\bin\Debug\WinFormTask_3.pdb
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\bin\Debug\task_1.dll
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\bin\Debug\task_1.pdb
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\obj\Debug\WinFormTask_3.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\obj\Debug\WinFormTask_3.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\obj\Debug\WinFormTask_3.csproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\obj\Debug\WinFormTask_3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\obj\Debug\WinFormTask_3.exe
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\obj\Debug\WinFormTask_3.pdb
+C:\Users\ASUS\source\repos\ISM\WinFormTask_3\obj\Debug\WinFormTask_3.Task_3.resources

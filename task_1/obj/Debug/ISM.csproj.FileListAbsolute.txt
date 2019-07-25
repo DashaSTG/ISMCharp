@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\ISM\task_1\bin\Debug\task_1.dll
+C:\Users\ASUS\source\repos\ISM\task_1\bin\Debug\task_1.pdb
+C:\Users\ASUS\source\repos\ISM\task_1\obj\Debug\ISM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISM\task_1\obj\Debug\task_1.dll
+C:\Users\ASUS\source\repos\ISM\task_1\obj\Debug\task_1.pdb
+C:\Users\ASUS\source\repos\ISM\task_1\obj\Debug\ISM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\ISM\task3\obj\Debug\task_3_Console.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISM\task3\obj\Debug\task_3_Console.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISM\task3\bin\Debug\task3.exe.config
+C:\Users\ASUS\source\repos\ISM\task3\bin\Debug\task3.exe
+C:\Users\ASUS\source\repos\ISM\task3\bin\Debug\task3.pdb
+C:\Users\ASUS\source\repos\ISM\task3\bin\Debug\task_1.dll
+C:\Users\ASUS\source\repos\ISM\task3\bin\Debug\task_1.pdb
+C:\Users\ASUS\source\repos\ISM\task3\obj\Debug\task3.exe
+C:\Users\ASUS\source\repos\ISM\task3\obj\Debug\task3.pdb
